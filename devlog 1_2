@@ -1,0 +1,8 @@
+- Made it so you can return to title after death
+- Added the pickaxe
+- Added mines
+- Mines give stone,quartz, and gold
+- You can now also use a pickaxe to mine rocks
+- Heartbeat plays when you are at 3 hours left
+- Added sound effects
+- Fixed item-placing radius bug
